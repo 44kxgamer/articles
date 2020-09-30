@@ -23,7 +23,7 @@ Dużą ważną zaletą Gita jest **rozproszona architektura**. Polega ona na tym
 
 {% include parts/postPicture.html page=page img="git-architektura" %}
 
-W przypadku repozytoriów scentralizowanych (takich jak np. SVN) **awaria serwera danych oznacza utratę wszystkich danych**. Informacji nie da się odtworzyć z komputerów użytkowników tych repozytoriów.
+W przypadku repozytoriów scentralizowanych (takich jak np. SVN) **awaria serwera danych oznacza utratę wszystkich danych**. Informacji nie da się odtworzyć z komputerów użytkowników tych repozytoriów.asd
 
 W systemie kontroli wersji Git każdy komputer, który pobierze określone repozytorium, zawiera jego pełną treść oraz historię. W przypadku awarii któregoś z komputerów historię można odtworzyć z każdego innego. Dzięki tej dogodności repozytoria Gita nie wymagają tworzenia kopii zapasowych (no chyba, że w określonym repo pracuje tylko jeden programista).
 
@@ -83,5 +83,3 @@ Zauważyłem też, że ludzie obsługujący GITa z klienta graficznego strasznie
 ## Gdzie się uczyć i jak zacząć
 
 Gita można pobrać za darmo na stronie <https://git-scm.com/downloads>. Dość fajna instrukcja w języku polskim znajduje się na tej samej stronie i jest dostępna tutaj: <https://git-scm.com/book/pl/v2>.
-
-Oprócz tego warto posiłkować się materiałami dostępnymi za darmo w internecie.
