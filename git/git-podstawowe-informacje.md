@@ -1,6 +1,6 @@
 ---
 title: Git - podstawowe informacje
-category: git
+category: gitasdasdsad
 thumbnail: git-rozpoczecie-pracy.png
 published: 2020-01-12T00:00:00Z
 ---
